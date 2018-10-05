@@ -19,7 +19,6 @@
         <br>
       <button type="submit">Login</button>
     </div>
-</center>
         
 	
     </form>
