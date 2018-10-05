@@ -1,9 +1,4 @@
-INSERT INTO `inbox`(`userid`, `sender`, `receiver`, `subject`, `message`, `date`) VALUES (1,'poorna','indhu','hai','how are you', '02/11/2018');
-INSERT INTO `inbox`(`userid`, `sender`, `receiver`, `subject`, `message`, `date`) VALUES (2,'aravindh','manoj','hai','how are you', '03/10/2018');
 
-INSERT INTO `contacts`(`userid`, `name`, `email`, `phone`) VALUES (1,'poorna','poornac1212@gmail.com','98745663210');
-INSERT INTO `contacts`(`userid`, `name`, `email`, `phone`) VALUES (2,'manoj','manoj@gmail.com','3698521470');
-INSERT INTO `contacts`(`userid`, `name`, `email`, `phone`) VALUES (1,'indhu','indhu@gmail.com','4563210789');
 
 
 ## mvn generate in single line
